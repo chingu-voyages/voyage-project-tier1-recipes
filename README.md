@@ -74,7 +74,7 @@ implement to enhance this app, if time permits.
 #### Functionality
 
 -   User can see a landing page containing at least the following components:
-    - [ ] A header componenet displaying a brief how-to-use.
+    - [ ] A header component displaying a brief how-to-use.
     - [ ] Search field allowing them input ingredient.
     - [ ] A scrollable list of recipes containing the result of the search criteria.
     - [ ] A summary main recipe component: it should display recipe image, name and link to details.
@@ -82,7 +82,7 @@ implement to enhance this app, if time permits.
 
 - Search Component
     - [ ] User will be able to input ingredient.
-    - [ ] Search on enter or on-click of the button
+    - [ ] Search on a press of the Enter key or clicking the 'Search' button/icon.
 
 - Main Data Display Component
     - [ ] Display result for each recipe in the main component.
