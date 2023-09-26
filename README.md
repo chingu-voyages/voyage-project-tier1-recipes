@@ -74,19 +74,19 @@ implement to enhance this app, if time permits.
 #### Functionality
 
 -   User can see a landing page containing at least the following components:
-    - [ ] A header component displaying a brief how-to-use.
-    - [ ] Search field allowing them input ingredient.
-    - [ ] A scrollable list of recipes containing the result of the search criteria.
+    - [ ] Header component displaying a brief how-to-use.
+    - [ ] Search field that enables users to input ingredient.
+    - [ ] A scrollable list of recipes displaying the results based on the search criteria.
     - [ ] A summary main recipe component: it should display recipe image, name and link to details.
     - [ ] A summary detail recipe component: it should display recipe name, category, and instructions
 
 - Search Component
-    - [ ] User will be able to input ingredient.
-    - [ ] Search on a press of the Enter key or clicking the 'Search' button/icon.
+    - [ ] User can input an ingredient.
+    - [ ] Initiate the search by either pressing the Enter key or clicking the 'Search' button/icon.
 
 - Main Data Display Component
     - [ ] Display result for each recipe in the main component.
-    - [ ] If no search ingredient has been inputed, then stay on header component.
+    - [ ] Remain on the header component if no search ingredient has been entered.
 
 - Summary Detail Component
     - [ ] Display the following information of the selected recipe:
@@ -97,8 +97,8 @@ implement to enhance this app, if time permits.
 ### Extras (Not Required)
 
 -   Search Component
-    - [ ] Allow search criteria to be saved across sessions and reselected from a dropdown
-    - [ ] Display error message if an unlisted item is inputed.
+    - [ ] Enable the preservation of search criteria between sessions, allowing users to select them from a dropdown menu when needed.
+    - [ ] Display an error message when an unlisted item is entered.
 -   Detail Data Display Component
     - [ ] Add a link to the instruction video
 -   Summary Metrics Component
