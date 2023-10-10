@@ -76,7 +76,7 @@ implement to enhance this app, if time permits.
 -   User can see a landing page containing at least the following components:
     - [ ] Header component displaying a brief how-to-use.
     - [ ] Search field that enables users to input ingredient.
-    - [ ] A scrollable list of recipes displaying the results based on the search criteria.
+    - [ ] A scrollable list of recipes displaying the results based on the search criteria. Keep in mind that the [Recipe API](https://rapidapi.com/apidojo/api/tasty) has over 1500 Recipes, however, it's paginated with 20 recipes per page of result.
     - [ ] A summary main recipe component: it should display recipe image, name and link to details.
     - [ ] A summary detail recipe component: it should display recipe name, category, and instructions
 
